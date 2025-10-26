@@ -11,21 +11,21 @@
         "url": "https://wowtbc.net/sprunkin/retake-human-fnf/index.html",
         "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Melophobia.png",
         "title": "Melophobia",
-        "state": "locked"
+        "state": "free"
     },
     {
         "id": "button3",
         "url": "https://wowtbc.net/sprunkin/sprinkle-multishift/index.html",
         "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Sprunki%20Phase%206.PNG",
         "title": "Phaseter",
-        "state": "locked"
+        "state": "free"
     },
     {
         "id": "button4",
         "url": "https://wowtbc.net/sprunkin/phase4-anti-shifted/index.html",
         "image": "https://raw.githubusercontent.com/Kojaaak/1_WebviewPortrait/refs/heads/main/Sprunted.png",
         "title": "Sprunkiau",
-        "state": "locked"
+        "state": "free"
     },
     {
         "id": "button5",
