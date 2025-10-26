@@ -11,14 +11,14 @@
         "url": "https://kdata1.com/2025/03/melophobia-x-sprunki/",
         "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Melophobia.png",
         "title": "Sprunki Melophobia",
-        "state": "reward"
+        "state": "locked"
     },
     {
         "id": "button3",
         "url": "https://kdata1.com/2025/03/sprunki-phase-6-alive/",
         "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Sprunki%20Phase%206.PNG",
         "title": "Sprunki Phase 6",
-        "state": "reward"
+        "state": "locked"
     },
     {
         "id": "button4",
