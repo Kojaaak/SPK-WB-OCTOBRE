@@ -2,7 +2,7 @@
   "ad_break_interval_seconds": 10,
   "webview_splash_duration_seconds": 2,
   "promo_app": {
-    "enabled": true,
+    "enabled": false,
     "app_title": "Sprunki Music Maker",
     "app_image": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/iconawddtb.jpg",
     "app_link": "https://apps.apple.com/us/app/incredibox/id1019631223",
