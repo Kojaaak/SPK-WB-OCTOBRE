@@ -1,6 +1,6 @@
 {
   "ad_break_interval_seconds": 44,
-  "webview_splash_duration_seconds": 12,
+  "webview_splash_duration_seconds": 13,
   "promo_app": {
     "enabled": false,
     "app_title": "Sprunki Music Maker",
