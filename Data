@@ -2,15 +2,15 @@
     {
         "id": "button1",
         "url": "https://wowtbc.net/sprunkin/sprunksters-freaken/index.html",
-        "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Sprunki_Parodybox%20wenda.PNG",
+        "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Sprunsters.jpg",
         "title": "Sprunksters",
         "state": "free"
     },
     {
         "id": "button2",
         "url": "https://wowtbc.net/sprunkin/retake-human-fnf/index.html",
-        "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Melophobia.png",
-        "title": "Melophobia",
+        "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/SPK2.jpg",
+        "title": "SprunMelody",
         "state": "free"
     },
     {
